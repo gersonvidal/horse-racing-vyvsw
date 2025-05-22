@@ -37,14 +37,14 @@ Está orientado a ser una aplicación recreativa y técnica que refuerza concept
 
 3. **Compila el proyecto**
 
-```bash
+   ```bash
    javac com/gerson/**/*.java
-```
+   ```
 
 4. **Ejecuta el servidor**
 
-```bash
+   ```bash
    java com.gerson.server.Server
-```
+   ```
 
 5. El servidor se iniciará en el puerto 1818 y mostrará mensajes en consola indicando el estado del sistema.
